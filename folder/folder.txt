@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x.  4 le le 4096 mar  6 15:11 .
+drwx------. 80 le le 4096 mar  6 14:37 ..
+-rw-rw-r--.  1 le le    2 mar  6 15:10 a.txt
+-rw-rw-r--.  1 le le    0 mar  6 15:10 b.txt
+-rw-rw-r--.  1 le le    5 mar  6 15:11 c.txt
+drwxrwxr-x.  2 le le 4096 mar  6 15:12 folder
+drwxrwxr-x.  8 le le 4096 mar  6 15:11 .git
